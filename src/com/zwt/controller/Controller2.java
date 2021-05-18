@@ -5,4 +5,9 @@ public class Controller2 {
         System.out.println("123");
         return "Test";
     }
+
+    public String Test1(){
+        return "Test1";
+    }
+
 }
